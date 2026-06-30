@@ -1,0 +1,27 @@
+# LOCRMS Config Repository - .gitignore
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+target/
+.classpath
+.project
+
+# Environment
+.env
+.env.local
+*.log
+
+# Temporary
+*.tmp
+*.bak
+
